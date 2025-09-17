@@ -1,7 +1,4 @@
 Batalha Naval - Jogo em Python com PyGame
-https://img.shields.io/badge/Game-Batalha%2520Naval-blue
-https://img.shields.io/badge/Python-3.8%252B-green
-https://img.shields.io/badge/Pygame-2.0%252B-red
 
 Um jogo clássico de Batalha Naval implementado em Python com interface gráfica usando PyGame.
 
