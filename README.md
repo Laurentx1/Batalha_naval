@@ -2,8 +2,6 @@ Batalha Naval - Jogo em Python com PyGame
 
 Um jogo clássico de Batalha Naval implementado em Python com interface gráfica usando PyGame.
 
-https://screenshot.png
-
 Funcionalidades
 Menu principal com interface amigável
 
@@ -28,8 +26,8 @@ Instalação
 Clone o repositório ou baixe o arquivo Batalha_naval.py:
 
 bash
-git clone https://github.com/Laurentx1/Batalha-naval.git
-cd batalha-naval
+git clone https://github.com/Laurentx1/Batalha_naval.git
+cd Batalha_naval
 Instale a biblioteca PyGame (se ainda não tiver):
 
 bash
@@ -76,7 +74,7 @@ Erros são marcados em branco
 Navios afundados são destacados
 Estrutura do Projeto
 text
-batalha_naval.py  # Arquivo principal do jogo
+Batalha_naval.py  # Arquivo principal do jogo
 README.md         # Este arquivo
 Classes Principais
 Game: Gerencia o estado do jogo e a lógica principal
